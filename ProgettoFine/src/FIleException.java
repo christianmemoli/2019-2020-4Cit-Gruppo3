@@ -1,5 +1,5 @@
 
-	public class FileException extends Exception{
+	public class FlleException extends Exception{
 
 		/**
 		 * 
